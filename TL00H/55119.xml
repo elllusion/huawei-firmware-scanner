@@ -1,0 +1,23 @@
+<?xml version='1.0' encoding='utf-8'?>
+<root>
+  <component name="TCPU" version="CHM-TL00HC00B564" />
+  <cleardata-flag>false</cleardata-flag>
+  <romsurvey-flag>false</romsurvey-flag>
+  <notify-level>40</notify-level>
+  <point-version>false</point-version>
+  <force-app-upgrade>false</force-app-upgrade>
+  <force-app-upgrade-list>
+  </force-app-upgrade-list>
+  <default-language name="zh-cn">2052</default-language>
+  <language code="2052" name="zh-cn">
+    <features module="" type="header">
+      <feature>亲爱的用户，本次升级主要修复了悬浮按钮打开时安装应用等场景下弹出提示框问题，会给您带来更好的使用体验，推荐您进行升级</feature>
+    </features>
+    <features module="【推荐】">
+      <feature>修复 悬浮按钮打开时安装应用等场景下弹出提示框问题</feature>
+    </features>
+    <features module="【更新注意事项】" type="end">
+      <feature>执行更新前，请确保手机没有 ROOT。更新过程中，如果遇到任何问题，您可以访问“手机服务”应用或“花粉俱乐部（http://club.huawei.com）”寻求支持。</feature>
+    </features>
+  </language>
+</root>

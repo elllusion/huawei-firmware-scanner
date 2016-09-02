@@ -1,0 +1,45 @@
+<?xml version='1.0' encoding='utf-8'?>
+<root>
+  <component name="TCPU" version="CHM-TL00C01B535" />
+  <cleardata-flag>false</cleardata-flag>
+  <romsurvey-flag>false</romsurvey-flag>
+  <notify-level>40</notify-level>
+  <point-version>false</point-version>
+  <force-app-upgrade>false</force-app-upgrade>
+  <force-app-upgrade-list>
+  </force-app-upgrade-list>
+  <default-language name="zh-cn">2052</default-language>
+  <language code="2052" name="zh-cn">
+    <features module="" type="header">
+      <feature>亲爱的用户，本次升级主要解决相机连拍卡顿、录屏时概率性花屏、播放视频低概率没有图像问题，同时新增OTG开关与谷歌系统补丁，进一步提升了操作体验，推荐您升级使用</feature>
+    </features>
+    <features module="【推荐】">
+      <feature>【通信】
+修复 关闭手机SIM卡，重新激活后，概率性无法驻网问题
+
+【存储】
+修复 外置存储卡概率性无法格式化问题
+修复 外置存储卡分区后，部分安装的应用无法使用问题
+新增 OTG功能开关 
+
+【第三方】
+修复 天天爱消除、保卫萝卜等游戏兼容性问题
+修复 小咖秀播放视频时加载视频失败问题
+修复 微信低概率无法打开相册，无法发送图片问题
+
+【多媒体】
+修复 相机连拍时，低概率出现卡顿问题
+修复 播放视频时，低概率没有图像问题
+修复 录屏功能，概率性花屏问题
+
+【系统】
+修复 使用手机找回功能，极低概率无法解锁问题
+修复 升级完成开机后，概率性重启问题
+新增 谷歌系统补丁，提升系统稳定性
+</feature>
+    </features>
+    <features module="【更新注意事项】" type="end">
+      <feature>执行更新前，请确保手机没有 ROOT。更新过程中，如果遇到任何问题，您可以访问“手机服务”应用或“花粉俱乐部（http://club.huawei.com）”寻求支持。</feature>
+    </features>
+  </language>
+</root>

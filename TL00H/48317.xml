@@ -1,0 +1,26 @@
+<?xml version='1.0' encoding='utf-8'?>
+<root>
+  <component name="TCPU" version="CHM-TL00HC00B556" />
+  <cleardata-flag>false</cleardata-flag>
+  <romsurvey-flag>false</romsurvey-flag>
+  <notify-level>40</notify-level>
+  <point-version>false</point-version>
+  <force-app-upgrade>false</force-app-upgrade>
+  <force-app-upgrade-list>
+  </force-app-upgrade-list>
+  <default-language name="zh-cn">2052</default-language>
+  <language code="2052" name="zh-cn">
+    <features module="" type="header">
+      <feature>亲爱的用户，本次升级主要优化了第三方应用兼容性和系统稳定性，进一步提升了用户体验，推荐您升级使用</feature>
+    </features>
+    <features module="【推荐】">
+      <feature>优化 部分常用应用的兼容性，让使用更舒心
+优化 系统稳定性
+修复 特定场景下桌面应用图标位置发生变化问题
+合入 谷歌最新系统补丁，提升系统安全性</feature>
+    </features>
+    <features module="【更新注意事项】" type="end">
+      <feature>执行更新前，请确保手机没有 ROOT。更新过程中，如果遇到任何问题，您可以访问“手机服务”应用或“花粉俱乐部（http://club.huawei.com）”寻求支持。</feature>
+    </features>
+  </language>
+</root>

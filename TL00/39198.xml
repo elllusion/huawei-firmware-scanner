@@ -1,0 +1,17 @@
+<?xml version='1.0' encoding='utf-8'?>
+<root>
+  <component name="TCPU" version="CHM-TL00C01B422" />
+  <default-language name="zh-cn">2052</default-language>
+  <language code="2052" name="zh-cn">
+    <features module="">
+      <feature>亲爱的用户，使用此升级包您的手机版本将会降至安卓5.1版本，请您谨慎使用。</feature>
+    </features>
+    <features module="【推荐】">
+      <feature>新增 系统版本降至安卓5.1版本
+</feature>
+    </features>
+    <features module="升级注意事项：">
+      <feature>请确保手机没有root，电量充足，剩余存储空间足够，如果升级过程中遇到任何问题，请到花粉俱乐部（ http://club.huawei.com/ ）寻求支持。</feature>
+    </features>
+  </language>
+</root>

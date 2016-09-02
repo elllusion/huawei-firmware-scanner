@@ -1,0 +1,29 @@
+<?xml version='1.0' encoding='utf-8'?>
+<root>
+  <component name="TCPU" version="CHM-TL00C01B528-log" />
+  <cleardata-flag>false</cleardata-flag>
+  <romsurvey-flag>false</romsurvey-flag>
+  <notify-level>40</notify-level>
+  <point-version>false</point-version>
+  <force-app-upgrade>false</force-app-upgrade>
+  <force-app-upgrade-list>
+  </force-app-upgrade-list>
+  <default-language name="zh-cn">2052</default-language>
+  <language code="2052" name="zh-cn">
+    <features module="" type="header">
+      <feature>本次升级主要升级系统为安卓6.0版本（Marshmallow），新增指南针功能、设置闹铃时长、智能短信等功能，优化桌面主题、操作动画等用户体验，推荐您进行升级。</feature>
+    </features>
+    <features module="【推荐】">
+      <feature>新增 系统升级为安卓6.0版本（Marshmallow）
+	  新增 指南针功能
+	  新增 智能短信功能
+	  新增 智能定时开关机设置
+	  新增 短信4秒内取消发送功能
+	  新增 生活服务应用
+	  新增 通讯录黄页</feature>
+    </features>
+    <features module="【更新注意事项】" type="end">
+      <feature>执行更新前，请确保手机没有 ROOT。更新过程中，如果遇到任何问题，您可以访问“手机服务”应用或“花粉俱乐部（http://club.huawei.com）”寻求支持。</feature>
+    </features>
+  </language>
+</root>

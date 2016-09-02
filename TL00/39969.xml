@@ -1,0 +1,18 @@
+<?xml version='1.0' encoding='utf-8'?>
+<root>
+  <component name="TCPU" version="CHM-TL00C01B520" />
+  <default-language name="zh-cn">2052</default-language>
+  <language code="2052" name="zh-cn">
+    <features module="">
+      <feature>本次升级新增了谷歌安全补丁，优化了开机启动流程，会给您带来更好的使用体验，推荐您进行升级。</feature>
+    </features>
+    <features module="【推荐】">
+      <feature>新增 HOTA升级验证
+优化 开机启动流程
+优化 NVME验证</feature>
+    </features>
+    <features module="升级注意事项：">
+      <feature>请确保手机没有root，电量充足，剩余存储空间足够，如果升级过程中遇到任何问题，请到花粉俱乐部（ http://club.huawei.com/ ）寻求支持。</feature>
+    </features>
+  </language>
+</root>

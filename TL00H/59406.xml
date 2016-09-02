@@ -1,0 +1,34 @@
+<?xml version='1.0' encoding='utf-8'?>
+<root>
+  <component name="TCPU" version="CHE-TL00HC00B566" />
+  <cleardata-flag>false</cleardata-flag>
+  <romsurvey-flag>false</romsurvey-flag>
+  <notify-level>40</notify-level>
+  <point-version>true</point-version>
+  <force-app-upgrade>false</force-app-upgrade>
+  <force-app-upgrade-list>
+  </force-app-upgrade-list>
+  <default-language name="zh-cn">2052</default-language>
+  <language code="2052" name="zh-cn">
+    <features module="" type="header">
+      <feature>亲爱的用户，本次更新增加了情景智能中流量月度报告和农历生日提醒等功能，并合入谷歌安全补丁，提升了系统安全性，推荐您更新体验。</feature>
+    </features>
+    <features module="【推荐】">
+      <feature>新增 情景智能中流量月度报告功能
+新增 情景智能中联系人农历生日提醒功能
+新增 手环支持手机来电一键静音功能
+新增 桌面联系人搜索结果支持直接点击进入短信或通话
+新增 支持分享杂志锁屏带水印功能
+新增 支持中国移动 46004 卡
+修复 微信来消息后状态栏不显示发消息人头像的问题
+修复 特殊场景下WLAN直连配对失败问题
+优化 手机管家中详细电量使用记录，展示耗电量随时间变化曲线
+优化 系统性能，增强系统稳定性
+合入 谷歌安全补丁，提升系统安全性</feature>
+    </features>
+    <features module="【更新注意事项】" type="end">
+      <feature>1. 本次更新不会删除用户数据，但仍建议您在更新前妥善备份个人重要数据。
+2. 更新过程中，如果遇到任何问题，您可以访问“手机服务”应用或“花粉俱乐部”http://club.huawei.com/ 或拨打服务热线 400-830-8300 寻求支持。</feature>
+    </features>
+  </language>
+</root>

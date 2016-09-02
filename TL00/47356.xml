@@ -1,0 +1,17 @@
+<?xml version='1.0' encoding='utf-8'?>
+<root>
+  <component name="TCPU" version="CHM-TL00C01B425" />
+  <default-language name="zh-cn">2052</default-language>
+  <language code="2052" name="zh-cn">
+    <features module="">
+      <feature>亲爱的用户，本次更新将会使您的手机版本回退至EMUI3.1和安卓5.1版本，并会清除用户数据，请您谨慎使用</feature>
+    </features>
+    <features module="【推荐】">
+      <feature>
+</feature>
+    </features>
+    <features module="升级注意事项：">
+      <feature>执行更新前，请确保手机没有 ROOT。更新过程中，如果遇到任何问题，您可以访问“手机服务”应用或“花粉俱乐部（http://club.huawei.com）”寻求支持</feature>
+    </features>
+  </language>
+</root>

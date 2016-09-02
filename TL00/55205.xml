@@ -1,0 +1,29 @@
+<?xml version='1.0' encoding='utf-8'?>
+<root>
+  <component name="TCPU" version="CHM-TL00C01B564" />
+  <cleardata-flag>false</cleardata-flag>
+  <romsurvey-flag>false</romsurvey-flag>
+  <notify-level>40</notify-level>
+  <point-version>false</point-version>
+  <force-app-upgrade>false</force-app-upgrade>
+  <force-app-upgrade-list>
+  </force-app-upgrade-list>
+  <default-language name="zh-cn">2052</default-language>
+  <language code="2052" name="zh-cn">
+    <features module="" type="header">
+      <feature>亲爱的用户，本次升级新增学生模式和专业相机应用，修复了特定场景下来电屏幕不点亮的问题，增强了系统的安全性和稳定性，会给您带来更好的使用体验，推荐您进行升级</feature>
+    </features>
+    <features module="【推荐】">
+      <feature>新增 学生模式，合理规划学生使用时间
+新增 专业相机模式，带给您专业的摄影体验 
+新增 日历年视图中显示农历年信息
+新增 日历中显示腊八节等节日信息
+修复 特定场景下来电屏幕不点亮问题
+优化 系统性能，增强系统稳定性
+合入 谷歌最新系统补丁，提升系统安全性</feature>
+    </features>
+    <features module="【更新注意事项】" type="end">
+      <feature>执行更新前，请确保手机没有 ROOT。更新过程中，如果遇到任何问题，您可以访问“手机服务”应用或“花粉俱乐部（http://club.huawei.com）”寻求支持。</feature>
+    </features>
+  </language>
+</root>

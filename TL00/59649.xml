@@ -1,0 +1,36 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<root>
+  <component name="TCPU" version="CHM-UL00C00B566-log" />
+  <cleardata-flag>false</cleardata-flag>
+  <romsurvey-flag>false</romsurvey-flag>
+  <notify-level>40</notify-level>
+  <point-version>false</point-version>
+  <force-app-upgrade>false</force-app-upgrade>
+  <force-app-upgrade-list>
+  </force-app-upgrade-list>
+<default-language name="zh-cn">2052</default-language>
+<language name="en-us" code="1033">
+    <features module="Tips: ">
+<feature>***If you have root your device, the upgrade package installation may fail. Recommended to download official SD card upgrade package from Huawei Device website to upgrade.***
+***It is recommended to use WIFI to upgrade.***</feature>
+    </features>
+        <features module="【Attention】">
+            <feature>Only for testing.</feature> 
+        </features>
+        <features module="【Update attention】">
+            <feature>Please ensure that the mobile phone does not have root, adequate power, enough storage space, if you encounter any problems in the process of upgrading, please go to the pollen Club (http://www.huafans.com) for support.</feature> 
+        </features>
+</language>
+<language name="zh-cn" code="2052">
+    <features module="温馨提示：">
+<feature>***若您已手动ROOT，可能导致升级包安装失败，建议去华为终端官网下载SD卡升级包进行升级***
+***建议在WIFI环境下进行升级***</feature>
+</features>
+        <features module="【注意】">
+            <feature>仅用于测试</feature> 
+        </features>
+-       <features module="升级注意事项：">
+            <feature>请确保手机没有root，电量充足，剩余存储空间足够，如果升级过程中遇到任何问题，请到花粉俱乐部（ http://club.huawei.com/ ）寻求支持。</feature> 
+        </features>
+</language>
+</root>

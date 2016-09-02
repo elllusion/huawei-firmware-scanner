@@ -1,0 +1,38 @@
+<?xml version='1.0' encoding='utf-8'?>
+<root>
+  <component name="TCPU" version="CHM-TL00C01B528-log" />
+  <cleardata-flag>false</cleardata-flag>
+  <romsurvey-flag>false</romsurvey-flag>
+  <notify-level>40</notify-level>
+  <point-version>false</point-version>
+  <force-app-upgrade>false</force-app-upgrade>
+  <force-app-upgrade-list>
+  </force-app-upgrade-list>
+  <default-language name="zh-cn">2052</default-language>
+  <language code="2052" name="zh-cn">
+    <features module="" type="header">
+      <feature>亲爱的用户，本次升级主要解决是双卡切换低概率重启，微信低概率显示异常、无声，相机模块概率性闪退问题，修复第三方安装到外置存储卡概率性无法使用问题。同时优化了部分场景下的手机性能，进一步提升了操作体验，推荐您升级使用！</feature>
+    </features>
+    <features module="【推荐】">
+      <feature>【通信】
+修复 双卡切换数据网络，手机低概率重启问题
+
+【桌面】
+修复 使用图案解锁与单手模式，界面概率性显示异常问题
+修复 新建闹铃时，手机横屏界面显示异常问题
+
+【第三方】
+修复 微信、天猫、民生银行及其他第三方应用兼容性
+修复 第三方应用存储在外置存储卡低概率重启问题
+
+【多媒体】
+修复 进入相机功能概率性闪退问题
+
+【设置】
+优化 设置菜单，删除显示模式等无关的设置项，提升系统易用性</feature>
+    </features>
+    <features module="【更新注意事项】" type="end">
+      <feature>执行更新前，请确保手机没有 ROOT。更新过程中，如果遇到任何问题，您可以访问“手机服务”应用或“花粉俱乐部（http://club.huawei.com）”寻求支持。</feature>
+    </features>
+  </language>
+</root>

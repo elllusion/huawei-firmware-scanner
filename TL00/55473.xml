@@ -1,0 +1,37 @@
+<?xml version='1.0' encoding='utf-8'?>
+<root>
+  <component name="TCPU" version="CHM-TL00C01B564" />
+  <default-language name="zh-cn">2052</default-language>
+  <language code="2052" name="zh-cn">
+    <features module="">
+      <feature>亲爱的用户，本次系统升级至EMUI4.0与安卓6.0版本（Marshmallow），不仅新增指南针、智能短信、安全输入法等特色功能，而且新增生活服务、通讯录黄页、维保服务等常用功能，同时优化桌面主题、设置菜单、操作动画等用户体验，推荐您进行升级。为了更好体验新系统，请您更新已安装应用到最新版本</feature>
+    </features>
+    <features module="【推荐】">系统升级为EMUI 4.0和安卓6.0版本
+      <feature>
+	  【桌面】 
+	  新增 指南针应用 
+	  新增 手机找回应用 
+	  新增 手机服务应用中维保相关服务 
+	  
+	  【设置】 
+	  新增 闹铃时长设置
+	  优化 合并“常用设置”与“全部设置”，设置菜单更简洁 
+	  优化 设置菜单目录结构，不常用设置项调整至二级目录 
+	  
+	  【短信】 
+	  新增 智能短信功能 
+	  新增 短信4秒内取消发送功能 
+	  
+	  【通讯录】 
+	  新增 生活服务应用 
+	  新增 通讯录黄页 
+	  
+	  【安全】 
+	  新增 华为安全输入法，确保用户输入密码时更安全
+</feature>
+    </features>
+    <features module="升级注意事项：">
+      <feature>执行更新前，请确保手机没有 ROOT。更新过程中，如果遇到任何问题，您可以访问“手机服务”应用或“花粉俱乐部（http://club.huawei.com）”寻求支持。</feature>
+    </features>
+  </language>
+</root>

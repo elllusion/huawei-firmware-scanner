@@ -1,0 +1,35 @@
+<?xml version='1.0' encoding='utf-8'?>
+<root>
+  <component name="TCPU" version="CHM-TL00C01B551" />
+  <cleardata-flag>false</cleardata-flag>
+  <romsurvey-flag>true</romsurvey-flag>
+  <notify-level>40</notify-level>
+  <point-version>false</point-version>
+  <force-app-upgrade>false</force-app-upgrade>
+  <force-app-upgrade-list>
+  </force-app-upgrade-list>
+  <default-language name="zh-cn">2052</default-language>
+  <language code="2052" name="zh-cn">
+    <features module="" type="header">
+      <feature>亲爱的用户，本次升级主要优化录屏应用卡顿问题，修复部分常用应用和安卓系统的兼容性问题，合入影响稳定性的修改，进一步提升了操作体验，推荐您升级使用</feature>
+    </features>
+    <features module="【推荐】">
+      <feature>【第三方】
+修复 部分常用应用的兼容性问题，让使用更舒心
+
+【多媒体】
+优化 录屏应用，让运行更流畅
+更新 音乐应用程序，界面操作更方便
+
+【系统】
+修复 特殊场景下闹钟无响应的问题
+修复 部分版本在升级后出现两个视频应用的问题，让桌面更整洁
+优化 系统稳定性
+优化 智能解锁功能，让操作更方便
+新增 谷歌系统补丁，提升系统安全性</feature>
+    </features>
+    <features module="【更新注意事项】" type="end">
+      <feature>执行更新前，请确保手机没有 ROOT。更新过程中，如果遇到任何问题，您可以访问“手机服务”应用或“花粉俱乐部（http://club.huawei.com）”寻求支持。</feature>
+    </features>
+  </language>
+</root>
